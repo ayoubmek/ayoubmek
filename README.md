@@ -1,7 +1,6 @@
 
 ### Hi there 👋🏻
 
- About Me
 <h1 align="center"> 🚀 Ayoub Mekni 🚀</h1>
 Digital Craftsman (Developer/Filmmaker/Creator)
 
