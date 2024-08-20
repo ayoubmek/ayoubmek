@@ -1,7 +1,23 @@
+
+### Hi there 👋🏻
+
+ About Me
 <h1 align="center"> 🚀 Ayoub Mekni 🚀</h1>
 Digital Craftsman (Developer/Filmmaker/Creator)
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[AyoubMekni][youtube]" to more than 500k subscribers.
+
+* 📱 Flutter Developer / Freelancer
+
+* ✨ UI / UX Enthusiast
+
+* 💻 Committed to writing clean, efficient code
+
+* ♥️ Passionate about exploring new places
+
+* 💁🏻  Sharing insights, apps, and tips on Flutter development on [Instagram](https://instagram.com/codewithflexz).
+
+###
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
@@ -34,21 +50,33 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
+
+# Reach me via 👇🏻
 
 
+  <a href="https://instagram.com/codewithflexz](https://www.instagram.com/ayoub_mekni/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/3e1066a5-35cc-4ce4-9035-6fc457c7e4c9"  height="50" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/c/ProgrammingWithFlexZ" target="_blank">
+    <img src="https://github.com/user-attachments/assets/191ecd5f-d6c5-4348-ab46-23f9ccd41fb8" height="50" alt="youtube logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/amirhossein-bayat-9288a4225" target="_blank">
+    <img src="https://github.com/user-attachments/assets/6708f656-58c5-4305-bce9-62663961137a" height="50" alt="telegram logo"  />
+  </a>
+  <a href="https://tlgrm.in/Codewithflexz" target="_blank">
+    <img src="https://github.com/user-attachments/assets/e9b394e0-79b0-475f-baf0-15e6b92864bb" height="50" alt="telegram logo"  />
+  </a>
+  <a href="https://amirbayat.dev@gmail.com" target="_blank">
+    <img src="https://github.com/user-attachments/assets/84b6b4d7-2838-4672-80d4-0b0cc56e5445" height="50" alt="gmail logo"  />
+  </a>
 
-### 📊 Stats
+  <a href="https://zaap.bio/CodeWithFlexz" target="_blank" rel="noreferrer">
+  <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/60e537346fa87d00016b77cc/0x0.png" width="50" />
+  </a>
+  
+###
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+  <a href="https://www.buymeacoffee.com/AmirBayat"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=AmirBayat&button_colour=000000&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
-<!--
-<details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
--->
 [website]: https://fkcodes.com
 [youtube]: https://youtube.com/fknight
