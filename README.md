@@ -4,9 +4,11 @@
 <h1 align="center"> 🚀 Ayoub Mekni 🚀</h1>
 Digital Craftsman (Developer/Filmmaker/Creator)
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[AyoubMekni][youtube]" to more than 500k subscribers.
+I'm an tunisia full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[AyoubMekni][youtube]" to more than 50k subscribers.
 
 * 📱 Flutter Developer / Freelancer
+  
+* 💻 Full-Stack Developer with expertise in Spring Boot and Angular
 
 * ✨ UI / UX Enthusiast
 
@@ -14,7 +16,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 * ♥️ Passionate about exploring new places
 
-* 💁🏻  Sharing insights, apps, and tips on Flutter development on [Instagram](https://instagram.com/codewithflexz).
+* 💁🏻 Sharing insights, apps, and tips on web and mobile development on [Instagram](https://instagram.com/).
 
 ###
    <p align="left">
