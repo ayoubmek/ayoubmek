@@ -1,4 +1,4 @@
-[![JS Mastery Pro](https://postimg.cc/MXBGNcmB)]
+[![Try-With-Makni]([https://postimg.cc/MXBGNcmB](https://i.postimg.cc/9X8q4Z4L/Try-With-Makni.png))]
 
 ### Hi there 👋🏻
 
