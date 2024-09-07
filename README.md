@@ -1,6 +1,4 @@
 [![Try-With-Makni](https://i.postimg.cc/9X8q4Z4L/Try-With-Makni.png)]
-[![JS Mastery Pro](https://i.postimg.cc/Y24xGvW8/github.png)](https://www.jsmastery.pro)
-
 ### Hi there 👋🏻
 
 <h1 align="center"> 🚀 Ayoub Mekni 🚀</h1>
